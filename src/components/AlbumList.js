@@ -1,4 +1,3 @@
-// src/components/AlbumList.js
 import React from 'react';
 import Album from './Album';
 

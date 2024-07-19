@@ -1,7 +1,5 @@
-// src/components/ArtistList.js
 import React from 'react';
 import Artist from './Artist';
-import '../App.css';
 
 const ArtistList = ({ artists, onSelectArtist }) => {
   return (

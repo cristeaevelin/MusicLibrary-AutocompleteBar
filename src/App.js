@@ -35,10 +35,10 @@ const App = () => {
   };
 
   return (
-    <div className="full-width-height-div">
+     <div>
       <Autocomplete/>
       <h1 style={{ textAlign: 'center' }}>Music Library</h1>
-      <div style={{ display: 'flex' }}>
+      <div style={{ display: 'center' }}>
         <div style={{ flex: 1 }}>
           <ArtistList artists={artists} onSelectArtist={handleSelectArtist} />
         </div>

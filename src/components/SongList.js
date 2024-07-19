@@ -1,4 +1,3 @@
-// src/components/SongList.js
 import React from 'react';
 
 const SongList = ({ songs }) => {

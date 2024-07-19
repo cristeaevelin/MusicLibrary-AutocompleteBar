@@ -1,4 +1,3 @@
-// src/components/Artist.js
 import React from 'react';
 
 const Artist = ({ artist, onSelectArtist }) => {
